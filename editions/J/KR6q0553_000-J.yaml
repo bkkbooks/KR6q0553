@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0553/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 一揆禪師像贊參同一揆禪師語錄序古德云只貴子見地不貴子操履此極則語也蓋自威音以後迄于盡未來際未有舍見地而談禪道者其如錯會者率以半青不黃承虛接響妄謂一切不礙菩提苦哉茲見參固尼一揆禪師語錄深嘆其為乘願之菩薩也師為石車和尚的孫祗園大德法嗣向知其履踐超卓不愧古人而其說法又單提向上絕去廉纖如此豈非所謂行解相應者乎真末法之光明幢矣良由師既得法後復參請于木老人古南和尚不肯自足其徹法源底宜哉今參同已成叢席法子多得人余與師之兄子麟氏交最久故知之深輒弁數言于語錄之首以見今日固有末山妙總其人者云爾時康熙庚申歲次孟春月約菴道人施博敬序
   hash: sha256:bf7fb3598c76585ef3a61cf53324ff7ef3df86c506d6b802df3560de1d05879e
   markers:
   - {type: 其他, offset: 0, content: 像贊, id: KR6q0553_J_000-mulu-1, level: '1'}
   - {type: 序, offset: 6, content: 序, id: KR6q0553_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 參同一揆禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J39/J39nB436.xml
     old_id: J39nB436
-hash: sha256:02e63498aa1447b4b9eefb234ed34177cf6702d0769cfe2f536b5701520c6500
+hash: sha256:d3a8396845933fa47afa70c43fc1b82a89823b0c6d2f026e29aa616bce0e070c

@@ -21,17 +21,17 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0553_000.yaml, hash: 'sha256:b554a1c513d8fc8d80ff2602566a64317c3dff4bcf0e7a7ceccdf7c8616bfa6e'}
+  - {seq: 0, filename: KR6q0553_000.yaml, hash: 'sha256:d7bf3e83af919d7e06778696a4342394c0d94e4de5547399aa5bad2f41878ffa'}
   - {seq: 1, filename: KR6q0553_001.yaml, hash: 'sha256:7d3a883d5423c7400df621b8b699b1f3d287f81f0ad39c23128c29e8b55f157e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0553_000.markers.yaml, hash: 'sha256:9b7d0da004729aa75d56981acf54598bc1f44fb22d0d47356aa5bad85632559f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0553_000.markers.yaml, hash: 'sha256:baf6b83fb7218a2c33b8a39692ec77495c3cb42121755a240026cb0593345830'}
   - {seq: 1, role: markers, filename: assets/KR6q0553_001.markers.yaml, hash: 'sha256:2116d3af153d9349e00b64d33e5714260df09915346d909a639b4344d679881a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0553_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像贊
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0553_J_000-mulu-2
     span:
-    - front
+    - body
     - 6
     - 6
   label: 序
@@ -997,7 +997,7 @@ table_of_contents:
   label: 自敘行略訓徒
   type: mulu
   level: 1
-hash: sha256:4fc62537040654a655849d1035477c3d1ae297ed9df966db6bee918e9c945171
+hash: sha256:052b627aac5d563dc03c5762360e3eb622119a95fb0356c9e0dec1e5de6d308a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
